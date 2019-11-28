@@ -1,0 +1,10 @@
+[user]
+	name = <name>
+	email = <email>
+[alias]
+	lg = log --oneline --graph
+    lga = log --oneline --graph --all
+    st = status
+    co = checkout
+[core]
+	excludesfile = /Users/<user>/.gitignore_global

@@ -1,0 +1,7 @@
+.idea/
+build/
+dist/
+*.egg-info/
+package-lock.json
+*.pyc
+.DS_Store

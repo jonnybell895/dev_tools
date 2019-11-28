@@ -1,0 +1,8 @@
+alias vi='vim'
+alias ..='cd ..'
+alias ...='cd ../../'
+alias ls='ls -G'
+alias ll='ls -lhrtG'
+alias la='ls -larthG'
+alias gwarn='grep ": WARNING:\|: ERROR:"'
+alias ginfo='grep ": WARNING:\|: ERROR:\|: INFO:"'
