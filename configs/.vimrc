@@ -1,4 +1,5 @@
-filetype plugin indent on
+" Turn off for copy/pasting indented code
+filetype plugin indent off
 
 " show existing tab with 4 spaces width
 set tabstop=4
